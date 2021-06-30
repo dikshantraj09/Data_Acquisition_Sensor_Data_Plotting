@@ -10,4 +10,4 @@ This project aims at collecting IMU data from an Android Phone over a wireless c
 You can Control the Mouse on your pc using the IMU of your phone.
 
 ## SQL Project (SQL_Project Folder)
-This Project Store the data comming from the IMU and sores it into a SQL database in real-time which is later being used to plot the trajectory of the phone and its motion. This data can also be used to train ML models for further analysis like Gait Analysis or Terrain Analysis etc.
+This Project Store the data comming from the IMU and sores it into a SQL database in real-time which is later being used to plot the trajectory of the phone and its motion. This data can also be used to train Machine Learning models for further analysis like Gait Analysis or Terrain Analysis etc.
