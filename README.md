@@ -10,6 +10,7 @@ This project aims at collecting IMU data from an Android Phone over a wireless c
 4. Enter the IP of the Machine on the app and port 1234 and any username
 5. Hit Join!
 6. The Server will start ploting the trajectory in realtime.
+![](./imgs/circle.png) ![](./imgs/circle_graph.png)
 ## Air_Mouse Project (Air_Mouse Folder)
 You can Control the Mouse on your pc using the IMU of your phone.
 ![](./imgs/Airmouse.png)
