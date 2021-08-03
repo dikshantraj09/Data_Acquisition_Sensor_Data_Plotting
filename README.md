@@ -1,5 +1,6 @@
 # Data Acquisition Sensor Data Plotting
 Data acquisition is the process of measuring a real-world physical property with a sensor and storing it into a Database. The Sensor is designed to transform the magnitude of the physical property into an electrical signal that can be visualized on a computer. The Objective of this project is to Store and analyse the IMU data Stored in SQL Database. Through this project, we aim to gather knowledge about working on similar projects and be future-ready for breakthrough technologies in our smart devices.
+![](./imgs/app.jpg)
 
 ## Android_Sensor_Data_Plotting (Project Folder)
 This project aims at collecting IMU data from an Android Phone over a wireless connection to Plot the Trajectory of the Phone in real-time on to a 3-D Plot.
@@ -11,6 +12,6 @@ This project aims at collecting IMU data from an Android Phone over a wireless c
 6. The Server will start ploting the trajectory in realtime.
 ## Air_Mouse Project (Air_Mouse Folder)
 You can Control the Mouse on your pc using the IMU of your phone.
-
+![](./imgs/Airmouse.png)
 ## SQL Project (SQL_Project Folder)
 This Project Store the data comming from the IMU and sores it into a SQL database in real-time which is later being used to plot the trajectory of the phone and its motion. This data can also be used to train Machine Learning models for further analysis like Gait Analysis or Terrain Analysis etc.
