@@ -14,6 +14,8 @@ This project aims at collecting IMU data from an Android Phone over a wireless c
 ![](./imgs/circle_graph.jpg)
 ![](./imgs/s_curve.png) 
 ![](./imgs/s_graph.jpg)
+## ML Project
+![alt](./imgs/output.gif)
 ## Air_Mouse Project (Air_Mouse Folder)
 You can Control the Mouse on your pc using the IMU of your phone.
 ![](./imgs/Airmouse.png)
