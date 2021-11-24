@@ -1,2 +1,2 @@
 
-![alt](./imgs/output.gif)
+![alt](./output.gif)
